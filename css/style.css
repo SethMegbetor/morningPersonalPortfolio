@@ -1,0 +1,28 @@
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: gray;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1,
+h3 {
+  color: #66bfbf;
+}
+body {
+  background-color: #eaf6f6;
+}
+
+p {
+  color: yellow;
+  font-size: 50px;
+}
+#secondParagraph {
+  color: brown;
+  width: 5px;
+}
+
+.allParagraphs {
+  font-style: italic;
+}
